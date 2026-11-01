@@ -31,7 +31,7 @@ I am new to all of this and I am learning by building small tools that fix an an
 <table align="center">
 <tr>
 <td align="center"><b>18</b><br>apps live</td>
-<td align="center"><b>22</b><br>public repos</td>
+<td align="center"><b>20</b><br>public repos</td>
 <td align="center"><b>300+</b><br>commits so far</td>
 <td align="center"><b>Oct 2026</b><br>started building in public</td>
 </tr>
@@ -57,7 +57,7 @@ I am a beginner, so this is split by how far along I am. None of it is mastered 
 
 | Stat | Now |
 | --- | --- |
-| Public repos | 22 |
+| Public repos | 20 |
 | Live sites | 19 (18 apps + portfolio) |
 | Commits | 300+ |
 | Main languages | JavaScript, HTML, CSS, Dart |
