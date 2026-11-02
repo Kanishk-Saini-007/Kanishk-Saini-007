@@ -129,12 +129,6 @@ Numbers are checked and refreshed by hand as I ship.
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
 <p><a href="https://kanishk-saini-007.github.io/HabitGrid/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/HabitGrid">View repo</a></p>
 </td>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/Flutter_Application_01/">Flutter_Application_01</a></h3>
-<p>My first Flutter app: a responsive glass-style profile page.</p>
-<p><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"></p>
-<p><a href="https://kanishk-saini-007.github.io/Flutter_Application_01/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/Flutter_Application_01">View repo</a></p>
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
