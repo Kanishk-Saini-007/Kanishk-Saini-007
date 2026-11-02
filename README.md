@@ -4,7 +4,7 @@
 
 <h3>First-year MBA Tech student &nbsp;|&nbsp; Learning to build &nbsp;|&nbsp; Sharing it as I go</h3>
 
-<a href="https://kanishksaini-007.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-A6E628?style=for-the-badge&labelColor=0a0f0a" alt="PORTFOLIO"></a>
+<a href="https://kanishk-saini-007.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-A6E628?style=for-the-badge&labelColor=0a0f0a" alt="PORTFOLIO"></a>
 <a href="https://www.linkedin.com/in/itskanishksaini/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=0a0f0a" alt="LINKEDIN"></a>
 <a href="mailto:its.kanishk.saini@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HI-EA4335?style=for-the-badge&labelColor=0a0f0a" alt="EMAIL"></a>
 
@@ -69,9 +69,9 @@ Numbers are checked and refreshed by hand as I ship.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KanishkSaini-007/KanishkSaini-007/output/github-snake-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KanishkSaini-007/KanishkSaini-007/output/github-snake.svg?v=2">
-    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/KanishkSaini-007/KanishkSaini-007/output/github-snake-dark.svg?v=2" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kanishk-Saini-007/Kanishk-Saini-007/output/github-snake-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kanishk-Saini-007/Kanishk-Saini-007/output/github-snake.svg?v=2">
+    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Kanishk-Saini-007/Kanishk-Saini-007/output/github-snake-dark.svg?v=2" width="100%">
   </picture>
 </div>
 
@@ -82,136 +82,136 @@ Numbers are checked and refreshed by hand as I ship.
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/AttendX/">AttendX</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/AttendX/">AttendX</a></h3>
 <p>Attendance planner. Set your required percentage, log classes and see how many you can skip or must attend.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/AttendX/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/AttendX">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/AttendX/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/AttendX">View repo</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/QuickCV/">QuickCV</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/QuickCV/">QuickCV</a></h3>
 <p>Resume builder with live preview and clean print-to-PDF.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/QuickCV/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/QuickCV">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/QuickCV/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/QuickCV">View repo</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/FocusFlow/">FocusFlow</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/FocusFlow/">FocusFlow</a></h3>
 <p>Pomodoro timer with a session journal and weekly insights.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/FocusFlow/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/FocusFlow">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/FocusFlow/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/FocusFlow">View repo</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/SplitSmart/">SplitSmart</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/SplitSmart/">SplitSmart</a></h3>
 <p>Expense splitter that works out the fewest payments to settle a group.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/SplitSmart/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/SplitSmart">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/SplitSmart/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/SplitSmart">View repo</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/GradeGoal/">GradeGoal</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/GradeGoal/">GradeGoal</a></h3>
 <p>Weighted-grade planner that shows the score you need on your final.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/GradeGoal/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/GradeGoal">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/GradeGoal/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/GradeGoal">View repo</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/TypeSpeed/">TypeSpeed</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/TypeSpeed/">TypeSpeed</a></h3>
 <p>Typing test with live WPM, accuracy and progress graphs.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/TypeSpeed/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/TypeSpeed">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/TypeSpeed/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/TypeSpeed">View repo</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/HabitGrid/">HabitGrid</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/HabitGrid/">HabitGrid</a></h3>
 <p>Habit tracker with a yearly contribution grid, streaks and keyboard shortcuts.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/HabitGrid/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/HabitGrid">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/HabitGrid/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/HabitGrid">View repo</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/Flutter_Application_01/">Flutter_Application_01</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/Flutter_Application_01/">Flutter_Application_01</a></h3>
 <p>My first Flutter app: a responsive glass-style profile page.</p>
 <p><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"></p>
-<p><a href="https://kanishksaini-007.github.io/Flutter_Application_01/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/Flutter_Application_01">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/Flutter_Application_01/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/Flutter_Application_01">View repo</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/portfolio/">Portfolio</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/portfolio/">Portfolio</a></h3>
 <p>My 3D interactive portfolio site that pulls everything together.</p>
 <p><img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/portfolio/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/portfolio">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/portfolio/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/portfolio">View repo</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/Corporate-Intelligence-Lab/">Corporate Intelligence Lab</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/Corporate-Intelligence-Lab/">Corporate Intelligence Lab</a></h3>
 <p>Financial ratio and distress analysis of 11 public companies from their 10-K filings, with an Altman Z-score and what-if stress tests.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"></p>
-<p><a href="https://kanishksaini-007.github.io/Corporate-Intelligence-Lab/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/Corporate-Intelligence-Lab">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/Corporate-Intelligence-Lab/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/Corporate-Intelligence-Lab">View repo</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/DueSoon/">DueSoon</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/DueSoon/">DueSoon</a></h3>
 <p>Deadline tracker that shows what is due next, with a live countdown.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/DueSoon/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/DueSoon">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/DueSoon/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/DueSoon">View repo</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/company-xray/">Company X-Ray</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/company-xray/">Company X-Ray</a></h3>
 <p>Pick a listed company, see its share price and its products ranked weakest to strongest from real filings.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/company-xray/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/company-xray">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/company-xray/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/company-xray">View repo</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/Ask-Kanishk/">Ask Kanishk</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/Ask-Kanishk/">Ask Kanishk</a></h3>
 <p>A small chatbot that answers questions about me and my projects. Talks to the Gemini API, with an offline fallback mode.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini API"></p>
-<p><a href="https://kanishksaini-007.github.io/Ask-Kanishk/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/Ask-Kanishk">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/Ask-Kanishk/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/Ask-Kanishk">View repo</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/stark-sky/">Stark Sky</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/stark-sky/">Stark Sky</a></h3>
 <p>A stylized New York City flight world: Manhattan, Central Park, rivers, bridges and 12 interactive project towers. A three.js learning project.</p>
 <p><img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="three.js"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/stark-sky/"><b>Play it</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/stark-sky">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/stark-sky/"><b>Play it</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/stark-sky">View repo</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/CGPAPlanner/">CGPA Planner</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/CGPAPlanner/">CGPA Planner</a></h3>
 <p>Semester SGPA and CGPA planner with an editable grading scale and a target mode that works out the grades you need. Private, no login.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/CGPAPlanner/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/CGPAPlanner">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/CGPAPlanner/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/CGPAPlanner">View repo</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/NextClass/">NextClass</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/NextClass/">NextClass</a></h3>
 <p>A weekly timetable that answers "what class is next" with a live now/next board and countdown. No login, local-first.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/NextClass/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/NextClass">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/NextClass/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/NextClass">View repo</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/SpendLeft/">SpendLeft</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/SpendLeft/">SpendLeft</a></h3>
 <p>A private allowance tracker: log expenses and it shows what you can safely spend each day so the money lasts the whole month. No login.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/SpendLeft/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/SpendLeft">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/SpendLeft/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/SpendLeft">View repo</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/KanishkSaini-007/android-boot-log-analyzer">Android Boot Log Analyzer</a></h3>
+<h3><a href="https://github.com/Kanishk-Saini-007/android-boot-log-analyzer">Android Boot Log Analyzer</a></h3>
 <p>A Python tool that reads Android boot logs (dmesg/logcat), classifies kernel, driver, firmware and SELinux errors, and times boot stages. On the web: analyze or compare your own logs in the browser and download HTML/JSON reports. 30 tests, CI green.</p>
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"></p>
-<p><a href="https://kanishksaini-007.github.io/android-boot-log-analyzer/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/android-boot-log-analyzer">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/android-boot-log-analyzer/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/android-boot-log-analyzer">View repo</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://kanishksaini-007.github.io/FlashFormula/">FlashFormula</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/FlashFormula/">FlashFormula</a></h3>
 <p>Formula flashcards for first-year physics, math and chemistry. Flip a card, mark what you know, add your own formulas. No login, progress stays in your browser.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishksaini-007.github.io/FlashFormula/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/KanishkSaini-007/FlashFormula">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/FlashFormula/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/FlashFormula">View repo</a></p>
 </td>
 </tr>
 </table>
@@ -220,7 +220,7 @@ Numbers are checked and refreshed by hand as I ship.
 
 <div align="center">
 
-<a href="https://kanishksaini-007.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-A6E628?style=for-the-badge&labelColor=0a0f0a" alt="PORTFOLIO"></a>
+<a href="https://kanishk-saini-007.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-A6E628?style=for-the-badge&labelColor=0a0f0a" alt="PORTFOLIO"></a>
 <a href="https://www.linkedin.com/in/itskanishksaini/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=0a0f0a" alt="LINKEDIN"></a>
 <a href="mailto:its.kanishk.saini@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HI-EA4335?style=for-the-badge&labelColor=0a0f0a" alt="EMAIL"></a>
 
