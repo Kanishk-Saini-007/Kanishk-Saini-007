@@ -1,223 +1,34 @@
-<div align="center">
+# Kanishk Saini
 
-<img src="banner.svg" alt="Kanishk Saini, building things that fix real annoyances" width="100%">
+First-year MBA Tech student at NMIMS Shirpur. Learning to connect software with finance, stock markets, business analysis and startups.
 
-<h3>First-year MBA Tech student &nbsp;|&nbsp; Learning to build &nbsp;|&nbsp; Sharing it as I go</h3>
+I build research tools to make assumptions visible, check calculations and work back to evidence. These are student projects, not investment recommendations or claims of professional expertise.
 
-<a href="https://kanishk-saini-007.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-A6E628?style=for-the-badge&labelColor=0a0f0a" alt="PORTFOLIO"></a>
-<a href="https://www.linkedin.com/in/itskanishksaini/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=0a0f0a" alt="LINKEDIN"></a>
-<a href="mailto:its.kanishk.saini@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HI-EA4335?style=for-the-badge&labelColor=0a0f0a" alt="EMAIL"></a>
+[Portfolio](https://kanishk-saini-007.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/itskanishksaini/)
 
-</div>
+## Selected work
 
-## About Me
+### [Company X-Ray](https://github.com/Kanishk-Saini-007/company-xray)
+Reported revenue comparisons, a source-linked segment view and a company-specific thesis journal with text export. Most reporting periods are annual. The interface distinguishes input spot-checks from inherited data that still needs checking.
 
-```js
-const kanishk = {
-  location:    "Shirpur, India",
-  education:   "MBA Tech @ NMIMS Shirpur (first year)",
-  focus:       ["Small web apps", "Local-first tools", "Learning Flutter and C"],
-  learning:    ["HTML", "CSS", "JavaScript", "Flutter", "C", "Git"],
-  level:       "Beginner. Everything here is me learning by building.",
-  currentlyOn: "Building small things and getting a bit better each day.",
-  funFact:     "I am trying to keep my GitHub graph green every single day.",
-};
-```
+[Open the research workspace](https://kanishk-saini-007.github.io/company-xray/)
 
-I am new to all of this and I am learning by building small tools that fix an annoyance I actually have: attendance math, grade targets, splitting bills, staying focused. Everything runs in the browser, needs no login, and keeps your data on your own device. Some of it is rough, and I am improving it a little each day.
+### [Corporate Intelligence Lab](https://github.com/Kanishk-Saini-007/Corporate-Intelligence-Lab)
+A learning project in financial statements, ratio analysis and what-if stress tests. Screening models have limits and are not verdicts on a business.
 
-## Fun Stats
+[Open the lab](https://kanishk-saini-007.github.io/Corporate-Intelligence-Lab/)
 
-<table align="center">
-<tr>
-<td align="center"><b>18</b><br>apps live</td>
-<td align="center"><b>20</b><br>public repos</td>
-<td align="center"><b>300+</b><br>commits so far</td>
-<td align="center"><b>Oct 2026</b><br>started building in public</td>
-</tr>
-</table>
+## Other work worth keeping
 
-## What I'm Learning
+- [Stark Sky](https://github.com/Kanishk-Saini-007/stark-sky): an Ironman-inspired browser flight game and interactive city, built while learning Three.js.
+- [Android Boot Log Analyzer](https://github.com/Kanishk-Saini-007/android-boot-log-analyzer): assignment work in parsing Android logs, classifying issues and testing a command-line tool. Sample logs are synthetic.
+- [Portfolio](https://github.com/Kanishk-Saini-007/portfolio): the public index of selected work.
 
-I am a beginner, so this is split by how far along I am. None of it is mastered yet.
+## How I want to build
 
-**Learning by building every day**
+- Evidence before a confident conclusion. Keep sources, dates, units and data limits visible.
+- Separate a model's output from facts about a company.
+- Use explicit assumptions and test edge cases, especially missing values and zero denominators.
+- Keep learning in public without inflating skills or shipping projects just to fill a contribution graph.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js">
-
-**Just getting started (first steps)**
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
-
-**Tools I am getting used to**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages">
-
-## GitHub Stats
-
-| Stat | Now |
-| --- | --- |
-| Public repos | 21 |
-| Live sites | 19 (18 apps + portfolio) |
-| Commits | 300+ |
-| Main languages | JavaScript, HTML, CSS, Dart |
-| On GitHub since | October 2026 |
-
-Numbers are checked and refreshed by hand as I ship.
-
-## My Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kanishk-Saini-007/Kanishk-Saini-007/output/github-snake-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kanishk-Saini-007/Kanishk-Saini-007/output/github-snake.svg?v=2">
-    <img alt="Snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Kanishk-Saini-007/Kanishk-Saini-007/output/github-snake-dark.svg?v=2" width="100%">
-  </picture>
-</div>
-
-<p align="center"><sub>Auto-generated from my contribution graph every 12 hours. Each green square is something I built or fixed while learning.</sub></p>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/AttendX/">AttendX</a></h3>
-<p>Attendance planner. Set your required percentage, log classes and see how many you can skip or must attend.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/AttendX/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/AttendX">View repo</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/QuickCV/">QuickCV</a></h3>
-<p>Resume builder with live preview and clean print-to-PDF.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/QuickCV/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/QuickCV">View repo</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/FocusFlow/">FocusFlow</a></h3>
-<p>Pomodoro timer with a session journal and weekly insights.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/FocusFlow/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/FocusFlow">View repo</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/SplitSmart/">SplitSmart</a></h3>
-<p>Expense splitter that works out the fewest payments to settle a group.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/SplitSmart/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/SplitSmart">View repo</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/GradeGoal/">GradeGoal</a></h3>
-<p>Weighted-grade planner that shows the score you need on your final.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/GradeGoal/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/GradeGoal">View repo</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/TypeSpeed/">TypeSpeed</a></h3>
-<p>Typing test with live WPM, accuracy and progress graphs.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/TypeSpeed/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/TypeSpeed">View repo</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/HabitGrid/">HabitGrid</a></h3>
-<p>Habit tracker with a yearly contribution grid, streaks and keyboard shortcuts.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/HabitGrid/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/HabitGrid">View repo</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/portfolio/">Portfolio</a></h3>
-<p>My 3D interactive portfolio site that pulls everything together.</p>
-<p><img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/portfolio/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/portfolio">View repo</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/Corporate-Intelligence-Lab/">Corporate Intelligence Lab</a></h3>
-<p>Financial ratio and distress analysis of 11 public companies from their 10-K filings, with an Altman Z-score and what-if stress tests.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"></p>
-<p><a href="https://kanishk-saini-007.github.io/Corporate-Intelligence-Lab/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/Corporate-Intelligence-Lab">View repo</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/DueSoon/">DueSoon</a></h3>
-<p>Deadline tracker that shows what is due next, with a live countdown.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/DueSoon/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/DueSoon">View repo</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/company-xray/">Company X-Ray</a></h3>
-<p>Pick a listed company, see its share price and its products ranked weakest to strongest from real filings.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/company-xray/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/company-xray">View repo</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/Ask-Kanishk/">Ask Kanishk</a></h3>
-<p>A small chatbot that answers questions about me and my projects. Talks to the Gemini API, with an offline fallback mode.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Gemini API"></p>
-<p><a href="https://kanishk-saini-007.github.io/Ask-Kanishk/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/Ask-Kanishk">View repo</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/stark-sky/">Stark Sky</a></h3>
-<p>A stylized New York City flight world: Manhattan, Central Park, rivers, bridges and 12 interactive project towers. A three.js learning project.</p>
-<p><img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="three.js"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/stark-sky/"><b>Play it</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/stark-sky">View repo</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/CGPAPlanner/">CGPA Planner</a></h3>
-<p>Semester SGPA and CGPA planner with an editable grading scale and a target mode that works out the grades you need. Private, no login.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/CGPAPlanner/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/CGPAPlanner">View repo</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/NextClass/">NextClass</a></h3>
-<p>A weekly timetable that answers "what class is next" with a live now/next board and countdown. No login, local-first.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/NextClass/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/NextClass">View repo</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/SpendLeft/">SpendLeft</a></h3>
-<p>A private allowance tracker: log expenses and it shows what you can safely spend each day so the money lasts the whole month. No login.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/SpendLeft/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/SpendLeft">View repo</a></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Kanishk-Saini-007/android-boot-log-analyzer">Android Boot Log Analyzer</a></h3>
-<p>A Python tool that reads Android boot logs (dmesg/logcat), classifies kernel, driver, firmware and SELinux errors, and times boot stages. On the web: analyze or compare your own logs in the browser and download HTML/JSON reports. 30 tests, CI green.</p>
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"></p>
-<p><a href="https://kanishk-saini-007.github.io/android-boot-log-analyzer/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/android-boot-log-analyzer">View repo</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/FlashFormula/">FlashFormula</a></h3>
-<p>Formula flashcards for first-year physics, math and chemistry. Flip a card, mark what you know, add your own formulas. No login, progress stays in your browser.</p>
-<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/FlashFormula/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/FlashFormula">View repo</a></p>
-</td>
-</tr>
-</table>
-
-## Connect With Me
-
-<div align="center">
-
-<a href="https://kanishk-saini-007.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-A6E628?style=for-the-badge&labelColor=0a0f0a" alt="PORTFOLIO"></a>
-<a href="https://www.linkedin.com/in/itskanishksaini/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=0a0f0a" alt="LINKEDIN"></a>
-<a href="mailto:its.kanishk.saini@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HI-EA4335?style=for-the-badge&labelColor=0a0f0a" alt="EMAIL"></a>
-
-Always happy to hear feedback or an idea for a small app. Drop a message anytime.
-
-</div>
+Current stack: Python, JavaScript, HTML/CSS and Git. Still learning the tools and the business concepts behind them.
