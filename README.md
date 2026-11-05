@@ -18,6 +18,23 @@ A learning project in financial statements, ratio analysis and what-if stress te
 
 [Open the lab](https://kanishk-saini-007.github.io/Corporate-Intelligence-Lab/)
 
+## Analysis workbenches
+
+Ten focused Python CLI projects. Each includes strict JSON input checks, a labeled synthetic example, reproducible output, tests and a method/limits note. They are research tools, not production financial platforms.
+
+| Project | Question it helps inspect |
+| --- | --- |
+| [Earnings Quality Bridge](https://github.com/Kanishk-Saini-007/earnings-quality-bridge) | Reconcile reported profit with operating cash flow, working-capital movements and a clearly named residual. |
+| [Debt Maturity Stress](https://github.com/Kanishk-Saini-007/debt-maturity-stress) | Model yearly liquidity after scheduled debt maturities and operating cash flows, without assuming automatic refinancing. |
+| [Capital Allocation Review](https://github.com/Kanishk-Saini-007/capital-allocation-review) | Explain where operating cash went and how much of stated uses required cash drawdown or external funds. |
+| [Valuation Scenario Lab](https://github.com/Kanishk-Saini-007/valuation-scenario-lab) | Run explicit discounted-cash-flow scenarios and expose the share of modeled value coming from the terminal assumption. |
+| [Peer Period Normalizer](https://github.com/Kanishk-Saini-007/peer-period-normalizer) | Keep period length, currency units and balance-sheet denominators explicit when comparing businesses. |
+| [Guidance Evidence Ledger](https://github.com/Kanishk-Saini-007/guidance-evidence-ledger) | Compare a numeric management target with dated evidence, retaining the exact claim, metric, unit and source links without inventing a trust score. |
+| [Startup Cohort Economics](https://github.com/Kanishk-Saini-007/startup-cohort-economics) | Measure retention, contribution cash generation and actual cohort acquisition-cost payback from monthly observations. |
+| [Segment Mix Attribution](https://github.com/Kanishk-Saini-007/segment-mix-attribution) | Separate the revenue effect of changed units and changed price for consistent business segments using an exact, symmetric bridge. |
+| [Market Concentration Lab](https://github.com/Kanishk-Saini-007/market-concentration-lab) | Compute concentration from a defined market, and show how a proposed combination changes a descriptive HHI measure. |
+| [Historical Portfolio Risk](https://github.com/Kanishk-Saini-007/historical-portfolio-risk) | Measure a fixed-weight periodically rebalanced portfolio from aligned return histories, including volatility, drawdown and historical loss quantiles. |
+
 ## Other work worth keeping
 
 - [Stark Sky](https://github.com/Kanishk-Saini-007/stark-sky): an Ironman-inspired browser flight game and interactive city, built while learning Three.js.
