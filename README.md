@@ -4,7 +4,7 @@
 
 <h3>First-year MBA Tech student &nbsp;|&nbsp; Learning to build &nbsp;|&nbsp; Sharing it as I go</h3>
 
-<a href="https://kanishk-saini-007.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-A6E628?style=for-the-badge&labelColor=0a0f0a" alt="PORTFOLIO"></a>
+<a href="https://kanishk-saini-007.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-A6E628?style=for-the-badge&labelColor=0a0f0a" alt="PORTFOLIO"></a>
 <a href="https://www.linkedin.com/in/itskanishksaini/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=0a0f0a" alt="LINKEDIN"></a>
 <a href="mailto:its.kanishk.saini@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HI-EA4335?style=for-the-badge&labelColor=0a0f0a" alt="EMAIL"></a>
 
@@ -132,10 +132,10 @@ Numbers are checked and refreshed by hand as I ship.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/portfolio/">Portfolio</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/Portfolio/">Portfolio</a></h3>
 <p>My 3D interactive portfolio site that pulls everything together.</p>
 <p><img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/portfolio/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/portfolio">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/Portfolio/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/Portfolio">View repo</a></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://kanishk-saini-007.github.io/Corporate-Intelligence-Lab/">Corporate Intelligence Lab</a></h3>
@@ -152,10 +152,10 @@ Numbers are checked and refreshed by hand as I ship.
 <p><a href="https://kanishk-saini-007.github.io/DueSoon/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/DueSoon">View repo</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/company-xray/">Company X-Ray</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/Company-Xray/">Company X-Ray</a></h3>
 <p>Pick a listed company, see its share price and its products ranked weakest to strongest from real filings.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/company-xray/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/company-xray">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/Company-Xray/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/Company-Xray">View repo</a></p>
 </td>
 </tr>
 <tr>
@@ -166,10 +166,10 @@ Numbers are checked and refreshed by hand as I ship.
 <p><a href="https://kanishk-saini-007.github.io/Ask-Kanishk/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/Ask-Kanishk">View repo</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/stark-sky/">Stark Sky</a></h3>
+<h3><a href="https://kanishk-saini-007.github.io/Stark-Sky/">Stark Sky</a></h3>
 <p>A stylized New York City flight world: Manhattan, Central Park, rivers, bridges and 12 interactive project towers. A three.js learning project.</p>
 <p><img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="three.js"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/stark-sky/"><b>Play it</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/stark-sky">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/Stark-Sky/"><b>Play it</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/Stark-Sky">View repo</a></p>
 </td>
 </tr>
 <tr>
@@ -194,10 +194,10 @@ Numbers are checked and refreshed by hand as I ship.
 <p><a href="https://kanishk-saini-007.github.io/SpendLeft/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/SpendLeft">View repo</a></p>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Kanishk-Saini-007/android-boot-log-analyzer">Android Boot Log Analyzer</a></h3>
+<h3><a href="https://github.com/Kanishk-Saini-007/Android-Boot-Log-Analyzer">Android Boot Log Analyzer</a></h3>
 <p>A Python tool that reads Android boot logs (dmesg/logcat), classifies kernel, driver, firmware and SELinux errors, and times boot stages. On the web: analyze or compare your own logs in the browser and download HTML/JSON reports. 30 tests, CI green.</p>
 <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"></p>
-<p><a href="https://kanishk-saini-007.github.io/android-boot-log-analyzer/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/android-boot-log-analyzer">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/Android-Boot-Log-Analyzer/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/Android-Boot-Log-Analyzer">View repo</a></p>
 </td>
 </tr>
 <tr>
@@ -214,7 +214,7 @@ Numbers are checked and refreshed by hand as I ship.
 
 <div align="center">
 
-<a href="https://kanishk-saini-007.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-A6E628?style=for-the-badge&labelColor=0a0f0a" alt="PORTFOLIO"></a>
+<a href="https://kanishk-saini-007.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-OPEN-A6E628?style=for-the-badge&labelColor=0a0f0a" alt="PORTFOLIO"></a>
 <a href="https://www.linkedin.com/in/itskanishksaini/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=0a0f0a" alt="LINKEDIN"></a>
 <a href="mailto:its.kanishk.saini@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HI-EA4335?style=for-the-badge&labelColor=0a0f0a" alt="EMAIL"></a>
 
