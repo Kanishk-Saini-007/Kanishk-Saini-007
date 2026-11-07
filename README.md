@@ -174,10 +174,10 @@ Numbers are checked and refreshed by hand as I ship.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://kanishk-saini-007.github.io/CGPAPlanner/">CGPA Planner</a></h3>
-<p>Semester SGPA and CGPA planner with an editable grading scale and a target mode that works out the grades you need. Private, no login.</p>
+<h3><a href="https://kanishk-saini-007.github.io/CGPA-Calc/">CGPA Calc</a></h3>
+<p>Results calculator for NMIMS MPSTME Shirpur: subjects and credits load from the SRB A.Y. 2026-27, you enter your ICA/TEE marks and get SGPA and CGPA. Private, no login.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
-<p><a href="https://kanishk-saini-007.github.io/CGPAPlanner/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/CGPAPlanner">View repo</a></p>
+<p><a href="https://kanishk-saini-007.github.io/CGPA-Calc/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/CGPA-Calc">View repo</a></p>
 </td>
 <td width="50%" valign="top">
 <h3><a href="https://kanishk-saini-007.github.io/NextClass/">NextClass</a></h3>
