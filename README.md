@@ -30,8 +30,8 @@ I am new to all of this and I am learning by building small tools that fix an an
 
 <table align="center">
 <tr>
-<td align="center"><b>17</b><br>apps live</td>
-<td align="center"><b>21</b><br>public repos</td>
+<td align="center"><b>18</b><br>apps live</td>
+<td align="center"><b>24</b><br>public repos</td>
 <td align="center"><b>300+</b><br>commits so far</td>
 <td align="center"><b>Oct 2026</b><br>started building in public</td>
 </tr>
@@ -57,8 +57,8 @@ I am a beginner, so this is split by how far along I am. None of it is mastered 
 
 | Stat | Now |
 | --- | --- |
-| Public repos | 21 |
-| Live sites | 19 (17 apps + portfolio + root page) |
+| Public repos | 24 |
+| Live sites | 20 (18 apps + portfolio + root page) |
 | Commits | 300+ |
 | Main languages | JavaScript, HTML, CSS, Dart |
 | On GitHub since | October 2026 |
@@ -206,6 +206,12 @@ Numbers are checked and refreshed by hand as I ship.
 <p>Formula flashcards for first-year physics, math and chemistry. Flip a card, mark what you know, add your own formulas. No login, progress stays in your browser.</p>
 <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></p>
 <p><a href="https://kanishk-saini-007.github.io/FlashFormula/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/FlashFormula">View repo</a></p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://kanishk-saini-007.github.io/Face-As-Numbers/">Face As Numbers</a></h3>
+<p>Your webcam frame as a live wall of digits, driven by the face detector's real neural activations. Camera stays on your device, no login.</p>
+<p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js"></p>
+<p><a href="https://kanishk-saini-007.github.io/Face-As-Numbers/"><b>Live demo</b></a> &nbsp;|&nbsp; <a href="https://github.com/Kanishk-Saini-007/Face-As-Numbers">View repo</a></p>
 </td>
 </tr>
 </table>
